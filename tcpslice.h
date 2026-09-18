@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2006, 2020, 2021, 2022, 2023, 2025
  *	The Tcpdump Group and contributors.  All rights reserved.
- * Copyright (c) 1993, 1995
+ * Copyright (c) 1993, 1995, 1997
  *	The Regents of the University of California.  All rights reserved.
  *
  * SPDX-License-Identifier: BSD-4-Clause-Shortened
