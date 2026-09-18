@@ -1,33 +1,9 @@
-dnl Copyright (c) 2001, 2006, 2013, 2020, 2021, 2022, 2023, 2024, 2025
+dnl Copyright (c) 2001
 dnl	The Tcpdump Group and contributors.  All rights reserved.
 dnl Copyright (c) 1995, 1996, 1997, 1998
 dnl	The Regents of the University of California.  All rights reserved.
 dnl
 dnl SPDX-License-Identifier: BSD-4-Clause-Shortened
-dnl
-dnl Redistribution and use in source and binary forms, with or without
-dnl modification, are permitted provided that:
-dnl
-dnl 1. source code distributions retain the above copyright notice and this
-dnl    paragraph in its entirety,
-dnl
-dnl 2. distributions including binary code include the above copyright notice
-dnl    and this paragraph in its entirety in the documentation or other
-dnl    materials provided with the distribution, and
-dnl
-dnl 3. all advertising materials mentioning features or use of this software
-dnl    display the following acknowledgement:
-dnl
-dnl "This product includes software developed by the University of California,
-dnl Lawrence Berkeley Laboratory and its contributors."
-dnl
-dnl Neither the name of the University nor the names of its contributors may be
-dnl used to endorse or promote products derived from this software without
-dnl specific prior written permission.
-dnl
-dnl THIS SOFTWARE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
-dnl WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
-dnl MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 dnl
 dnl LBL autoconf macros

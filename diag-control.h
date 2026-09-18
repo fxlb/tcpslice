@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2013, 2021
+ * Copyright (c) 2013
  *	The Tcpdump Group and contributors.  All rights reserved.
  * Originally derived (via tcpdump) from FreeRADIUS server source code with
  * permission.

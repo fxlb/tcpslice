@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2020, 2021, 2023, 2024
+ * Copyright (c) 2020
  *	The Tcpdump Group and contributors.  All rights reserved.
  * Copyright (c) 2006
  *	Sebastien Raveau <sebastien.raveau@epita.fr>.  All rights reserved.

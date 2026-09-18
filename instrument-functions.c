@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2022, 2023, 2025
+ * Copyright (c) 2022
  *	The Tcpdump Group and contributors.  All rights reserved.
  *
  * SPDX-License-Identifier: BSD-2-Clause
