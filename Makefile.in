@@ -79,7 +79,9 @@ CLEANFILES = $(PROG) $(OBJ) instrument-functions.o
 
 EXTRA_DIST = \
 	CHANGES \
+	COPYING \
 	CREDITS \
+	LICENSE \
 	INSTALL.md \
 	Makefile.in \
 	Makefile-devel-adds \
